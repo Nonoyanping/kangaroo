@@ -1,0 +1,29 @@
+/* static/style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.box {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#sentence-container {
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.dark-theme #sentence-container {
+    background-color: #444;
+    color: #fff;
+}
+
+.button {
+    margin-top: 20px;
+}
